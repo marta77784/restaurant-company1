@@ -19,7 +19,7 @@ Bella Vista Italian Kitchen is a modern, premium, fully responsive React applica
 - **Styling**: Tailwind CSS (v4)
 - **Routing**: React Router DOM (v7)
 - **Icons**: Lucide React
-- **Animations**: Framer Motion
+- **Animations**:motion
 
 ## Installation
 
